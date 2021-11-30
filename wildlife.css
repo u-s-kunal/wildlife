@@ -186,6 +186,12 @@ border: 4px solid #fdca00;
 
     
 }
+
+.collage{
+    display: flex;
+    flex-direction: row;
+}
+
 .mini1 , .mini2,.mini3,.mini4{
     display: inline-block;
     width: 300px;
